@@ -362,7 +362,7 @@ a{
 }
 
 .menu-list .list-item .title{
-	color: #333333;
+	color: #d5a26f;
 	font-size: 18px;
 	line-height: 24px;
 	margin-bottom: 8px;
@@ -409,7 +409,7 @@ a{
 }
 
 .footer{
-	background-image: url('../images/common/logo.jpg');
+	background-image: url('../images/products/product001.jpg');
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -419,7 +419,7 @@ a{
 	width: 240px;
 	height: 240px;
 	display: block;
-	background-image: url('../images/common/meowlogo2.png');
+	background-image: url('../images/products/product001.jpg');
 	background-position: center;
 	background-size: contain;
 	margin: 0 auto;
